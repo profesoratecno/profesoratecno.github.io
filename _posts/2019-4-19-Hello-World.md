@@ -2,7 +2,7 @@
 layout: post
 title: Saludos
 ---
-#Sección 1
+# Sección 1
 Bla, Bla
 
 ![fantasma]({{ site.baseurl }}/images/0eb3c083938d4eded336e7c68e742589.png)
