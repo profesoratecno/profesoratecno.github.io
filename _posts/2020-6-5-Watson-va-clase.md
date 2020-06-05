@@ -5,8 +5,6 @@ land: es
 fecha: 2020-06-05 17:53:44 +0200
 categorías:
 ---
-# Watson va a clase con TJBot
-
 Ya tengo a punto el TJbot, cedido por el IES las Encinas para aprender cómo llevar la IA  Inteligencia  Artificial al aula.
 
 [TJBot] (/ images / TJBot.jpg)
