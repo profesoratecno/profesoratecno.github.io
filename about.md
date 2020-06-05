@@ -15,7 +15,5 @@ Enlaces relacionados conmigo:
 - [Norias con Sketchup](https://github.com/profesoratecno/Norias-con-Sketchup)
 - [Curso OpenScad](https://github.com/profesoratecno/curso-openscad)
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
