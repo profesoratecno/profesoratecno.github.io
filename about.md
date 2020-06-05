@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about: @profesoratecno, actualmente soy profesora de instituto de Tecnología. 
+Some information about: Profesoratecno
+Actualmente soy profesora de instituto de Tecnología. 
 Enlaces relacionados conmigo:
 
 - [Astropi_comenzando_con_SenseHat.](https://github.com/profesoratecno/Astropi_comenzando_con_SenseHat)
