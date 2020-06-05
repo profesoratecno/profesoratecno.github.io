@@ -1,29 +1,43 @@
 ---
 layout: post
-title: Saludos a RobandRolleros
+title: Watson va a clase con TJBot
 land: es
-fecha: 2020-06-05 17:36:44 +0200
+fecha: 2020-06-05 17:53:44 +0200
 categorías:
 ---
-# Saludos a RobandRolleros
+# Watson va a clase con TJBot
 
-Aunque ya estamos terminando el curso y nos queda completar un motón de informes, evaluaciones, hojas de competencias básicas, informes individualizados, consejos orientadores y un largo etc. 
+Ya tengo a punto el TJbot, cedido por el IES las Encinas para aprender cómo llevar la IA  Inteligencia  Artificial al aula.
 
-No debemos de perder el norte con todo lo que se ha conseguido este año y lo que nos queda por ir consiguiedo año tras año.
+[TJBot] (/ images / TJBot.jpg "TJBot")
 
-Para mi es una alegría que mis compañeras me agradezcan que están en este camino gracias a mi insistencia, que haya antugüas/os alumnas/os que en si día se sintieron inspiradas/os por mi trabajo. 
+Se trata de aprender a utilizar algunas APIs de IBM Cloud, para ello en el interior de este robot hay una Raspberry Pi 3B, en ella está instalado dentro de Rasbian (el Sistema Operativo de la Raspberry Pi) un programa que se llama Node-RED. 
+Para aprender un poco de este software vamos a practicar con este sencillo tutorial:
 
-Y esto me empuja a seguir adelante con mis sueños.
+[Comenzando con Node-RED](https://projects.raspberrypi.org/en/projects/getting-started-with-node-red)
 
-¡Qué nos queda por delante! 
-- Encontrar un espacio Maker o SpaceLab o un espacio creativo, en el que compartir y diseñar nuevos proyectos.
-- Abrir también un espacio digital en el que compartamos, códigos, ideas y proyectos. 
-- Y seguir desarrollando este nuevo sueño sobre la exploración espacial y el entendimiento de nuestro Universo.
+Tras haber conseguido encenter y apagar un LED con Node-RED y subir y bajar el brazo del TJBot. 
+También he configurado las credenciales de las APIs que ofrece IBM Cloud: 
 
-Y desde esos sueños, mirar por un ojo de buey a nuestro planeta, platearnos cómo cuidarlo y cómo tomarle la temperatura con nuestros instrumentos de medición, APIs, satélites, índices de análisis. Vamos a recoger todos estos datos y analizárlos mediante gráficas de análisis.
+- Languaje Translator --> Para crear un traductor en Node-RED 
 
-Para todo ello nos tenemos que dar cuenta que vamos a necesitar aprender IA, aprender herramientas que actualmente están en desarrollo....  
+- Watson Visual Recognition --> Reconocimiento de imágenes 
 
-[![Click to see the youtube video](http://img.youtube.com/vi/pp1sCTNUJmk/0.jpg)](https://youtu.be/pp1sCTNUJmk)
+- Tres servicios para mantener una conversación con TJBot -->  Assistant, Translator y Speech to Text. 
+- ....
+
+Nos queda poner en funcionamiento todos estos servicios y que todo funcione.
+
+Esperamos que con el asesoramiento de IBM y reparando los problemas de configuración y actualización, los podremos poner en marcha. 
+
+Otra cosa, es que tras nuestro aprendizaje hay que organizar las actividad para llevarlas al aula testadas. 
+
+Si estas dificultades se tornan en insuperables, una posibilidad que puede ser interesante para arrancar es: 
+
+- TJVirtual
+
+
+
+[Prose by Development Seed] (http://prose.io)
 
 Página creada gracias a las instrucciones tomadas en: [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
