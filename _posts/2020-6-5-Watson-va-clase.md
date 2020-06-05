@@ -7,7 +7,7 @@ categorías:
 ---
 Ya tengo a punto el TJbot, cedido por el IES las Encinas para aprender cómo llevar la IA  Inteligencia  Artificial al aula.
 
-[TJBot] (/images/TJBot.jpg"TJBot")
+<img src="/images/TJBot.jpg" width="400" align="center">
 
 Se trata de aprender a utilizar algunas APIs de IBM Cloud, para ello en el interior de este robot hay una Raspberry Pi 3B, en ella está instalado dentro de Rasbian (el Sistema Operativo de la Raspberry Pi) un programa que se llama Node-RED. 
 Para aprender un poco de este software vamos a practicar con este sencillo tutorial:
