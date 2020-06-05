@@ -25,6 +25,7 @@ También he configurado las credenciales de las APIs que ofrece IBM Cloud:
 - ....
 
 Nos queda poner en funcionamiento todos estos servicios y que todo funcione.
+[Watson va a clase](https://www.watsonvaaclase.es/)
 
 Esperamos que con el asesoramiento de IBM y reparando los problemas de configuración y actualización, los podremos poner en marcha. 
 
