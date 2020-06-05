@@ -26,4 +26,4 @@ Para todo ello nos tenemos que dar cuenta que vamos a necesitar aprender IA, apr
 
 [![Click to see the youtube video](http://img.youtube.com/vi/pp1sCTNUJmk/0.jpg)](https://youtu.be/pp1sCTNUJmk)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Página creada gracias a las instrucciones tomadas en: [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
