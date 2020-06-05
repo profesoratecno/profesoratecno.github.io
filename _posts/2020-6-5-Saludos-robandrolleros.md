@@ -7,7 +7,7 @@ categorías:
 ---
 # Saludos a RobandRolleros
 
-Aunque ya estamos terminando el curso y nos queda completar un motón de informes, evaluaciones, hojas de competencias básicas, informes individiac¡lizados, consejos orientadores y un largo etc. 
+Aunque ya estamos terminando el curso y nos queda completar un motón de informes, evaluaciones, hojas de competencias básicas, informes individualizados, consejos orientadores y un largo etc. 
 
 No debemos de perder el norte con todo lo que se ha conseguido este año y lo que nos queda por ir consiguiedo año tras año.
 
